@@ -1,0 +1,30 @@
+[
+        {
+          "id": 0,
+          "name": "MCU Timeline",
+          "picture": "/src/assets/partners/mcu.png",
+          "desc": "Toute la puissance du MCU dans une seule Appli",
+          "url": "https://www.linkedin.com/in/cdnsamuel/"
+        },
+        {
+          "id": 2,
+          "name": "Reload Fest",
+          "picture": "/src/assets/partners/reload.png",
+          "desc": "Un festival aussi chaud que ta bière est froide!",
+          "url": "https://www.linkedin.com/in/cdnsamuel/"
+        },
+        {
+            "id": 1,
+            "name": "Questubois",
+            "picture": "/src/assets/partners/questubois.png",
+            "desc": "Trouve ta partenaire pour la soirée, sans te faire casser les pieds !",
+            "url": "https://www.linkedin.com/in/cdnsamuel/"
+          },
+          {
+            "id": 3,
+            "name": "MMA Warriors",
+            "picture": "/src/assets/partners/mma.png",
+            "desc": "Les dernières infos sur la castagne !",
+            "url": "https://www.linkedin.com/in/cdnsamuel/"
+          }
+]

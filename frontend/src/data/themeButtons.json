@@ -1,0 +1,54 @@
+[
+    [{
+        "id": 1,
+        "title":"Découvrir",
+        "name": "discover",
+        "url": "https://api.themoviedb.org/3/discover/",
+        "options": "movie?include_adult=false&include_video=false&language=fr-FR&sort_by=popularity.desc"
+    },
+    {
+        "id": 2,
+        "title":"Légendaires",
+        "name": "top_rated",
+        "url": "https://api.themoviedb.org/3/movie/top_rated",
+        "options": "?language=fr-FR"
+    },
+    {
+        "id": 3,
+        "title":"En salle",
+        "name": "now_playing",
+        "url": "https://api.themoviedb.org/3/movie/now_playing",
+        "options": "?language=fr-FR"
+    },
+    {
+        "id": 4,
+        "title":"À venir",
+        "name": "upcoming",
+        "url": "https://api.themoviedb.org/3/movie/upcoming",
+        "options": "?language=fr-FR"
+    }],
+    [{
+        "id": 1,
+        "title":"Légendaires",
+        "name": "tv/top_rated",
+        "options": "?language=fr-FR"
+    },
+    {
+        "id": 2,
+        "title":"Populaires",
+        "name": "tv/popular",
+        "options": "?language=fr-FR"
+    },
+    {
+        "id": 3,
+        "title":"Aujourd'hui",
+        "name": "tv/airing_today",
+        "options": "?language=fr-FR"
+    },
+    {
+        "id": 4,
+        "title":"En cours",
+        "name": "tv/on_the_air",
+        "options": "?language=fr-FR"
+    }]
+]

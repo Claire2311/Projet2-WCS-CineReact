@@ -1,0 +1,26 @@
+[
+  {
+    "id": 0,
+    "firstname": "Claire",
+    "lastname": "Girard",
+    "picture": "/src/assets/team/claire-avatar.jpg",
+    "quote": "“Quand un homme a faim, mieux vaut lui apprendre à pêcher que de lui donner un poisson“",
+    "url": "https://www.linkedin.com/in/claire-girard-48590711b/"
+  },
+  {
+    "id": 2,
+    "firstname": "Thibaut",
+    "lastname": "Plez",
+    "picture": "/src/assets/team/thib-avatar.jpg",
+    "quote": "“La qualité ne s'obtient qu'avec le temps”",
+    "url": "https://www.linkedin.com/in/thibaut-plez"
+  },
+  {
+    "id": 3,
+    "firstname": "Samuel",
+    "lastname": "Cardonnel",
+    "picture": "/src/assets/team/sam-avatar.jpg",
+    "quote": "“Le code c'est comme l'humour, quand tu dois l'expliquer, inquiète-toi”",
+    "url": "https://www.linkedin.com/in/cdnsamuel/"
+  }
+]
